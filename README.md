@@ -2,6 +2,17 @@
 
 Akash Purandare's Website Repository.
 
+## User Stories
+
+The following functionality is to be built:
+
+- [x] Mark a functionality like this when it is complete
+- [ ] Build a playful site with animations
+- [ ] Site should be built on Twitter's Bootstrap framework
+- [ ] Site should be SEO Optimized and links to Facebook, Twitter, LinkedIn, GitHub accounts
+- [ ] Create an account on Heroku to deploy the PHP app
+- [ ] Send emails to user with SwiftMailer for Contact Me Section installed with Composer
+
 ## Installation
 
 Recommended apps to use:
@@ -17,18 +28,6 @@ Recommended apps to use:
 - Go to 'Deploy' section and connect with Github and then hit Deploy app to launch the app like:
 ![Image of Heroku Dashboard](http://i.imgur.com/XoWGO2c.png)
 - Enable automatic deployments to your repo
-
-
-## User Stories
-
-The following functionality is to be built:
-
-- [x] Mark a functionality like this when it is complete
-- [ ] Build a playful site with animations
-- [ ] Site should be built on Twitter's Bootstrap framework
-- [ ] Site should be SEO Optimized and links to Facebook, Twitter, LinkedIn, GitHub accounts
-- [ ] Create an account on Heroku to deploy the PHP app
-- [ ] Send emails to user with SwiftMailer for Contact Me Section installed with Composer
 
 ## Reference
 
